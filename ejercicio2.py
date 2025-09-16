@@ -10,3 +10,10 @@
 # - Crear otra clase para un componente (ej: Disco, RAM, etc.) con su propio __init__, __str__ y al menos un método.
 # 
 # ¡No olvides probar todos los métodos y comentar tu criterio para los valores
+
+def Computadora(self, marca, procesador, disco, OS, ram):
+    self.marca=marca
+    self.procesador=procesador
+    self.disco=disco
+    self.OS=OS
+    self.ram=ram

@@ -21,6 +21,8 @@ class Camion:
 a. Indicá qué devuelven las siguientes expresiones. Analizalo con tus compañeros y luego ejecutá las instrucciones en la máquina para comprobar tu respuesta.
 
 ```python
+
+
 furgon1 = Camion("ABC123", "Mercedes", 1000, 2020)
 furgon2 = furgon1
 furgon3 = Camion("DEF456", "Volvo", 2000, 2021)
@@ -42,9 +44,9 @@ d. Si dos personas tienen el mismo DNI, entonces... ¡Son la misma persona! ¿C�
 f. Creá un pequeño menú que te permita:
 
 1. Registrar un nuevo camión.
-1. Modificar la carga de un camión.
-1. Mostrar por terminal la lista de camiones registrados, del más antiguo al más moderno.
-1. Mostrar por terminal la marca que más veces fue registrada.
+2. Modificar la carga de un camión.
+3. Mostrar por terminal la lista de camiones registrados, del más antiguo al más moderno.
+4. Mostrar por terminal la marca que más veces fue registrada.
 
 ### Ejercicio 2
 
