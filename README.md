@@ -64,7 +64,7 @@ B done
 C done
 - El método `__str__` nos ayuda a conocer la información esencial de nuestros objetos. ¡Implementalo! Recordá que siempre debería estar presente en las clases que creás.
 
-D
+D done
 - Instanciá 3 computadoras y asignales distintos valores a sus atributos.
 
 E done
@@ -78,7 +78,7 @@ F
   f.3- `addRAM`: Instala un nuevo módulo de RAM en la computadora.
   f.4- `getCapacity`: Muestra la capacidad del componente de hardware que se desee conocer.
 
-G
+G (no)
 > Nota: Pedile ayuda a tu monitor para pensar cómo implementar los métodos solicitados. Pensá en aquellos atributos creados u otros adicionales que les den funcionalidad y practicidad a dichos métodos. Si es necesario, podés investigar el uso de `datetime` u otra librería que requieras. Recordá informar siempre al usuario sobre las acciones realizadas en el sistema. Probá todos los métodos creados para testear su funcionamiento.
 
 H
